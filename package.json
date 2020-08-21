@@ -10,7 +10,7 @@
   "dependencies": {
     "file-icons-js": "websemantics/file-icons-js",
     "jquery": "^3.5.1",
-    "webext-dynamic-content-scripts": "^6.0.4"
+    "webext-dynamic-content-scripts": "^6.0.5"
   },
   "devDependencies": {
     "ava": "*",
